@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ardublock.MainTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.329 sec - in com.ardublock.MainTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.311 sec - in com.ardublock.MainTest
