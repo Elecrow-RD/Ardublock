@@ -2561,7 +2561,7 @@
 			</BlockConnectors>
 		</BlockGenus>
 	
-		<BlockGenus name="seeed_joystick" kind="data" color="0 255 0" initlabel="bg.seeed_joystick">
+		<BlockGenus name="crowtail_joystick" kind="data" color="215 5 20" initlabel="bg.crowtail_joystick">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2578,7 +2578,7 @@
 			</Images>
 		</BlockGenus>
 
-		<BlockGenus name="seeed_joystick_button" kind="data" color="0 255 0" initlabel="bg.seeed_joystick_button">
+		<BlockGenus name="crowtail_joystick_button" kind="data" color="215 5 20" initlabel="bg.crowtail_joystick_button">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2595,7 +2595,7 @@
 			</Images>
 		</BlockGenus>
 
-		<BlockGenus name="seeed_o2_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_o2_sensor">
+		<BlockGenus name="crowtail_o2_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_o2_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2611,7 +2611,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_uv_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_uv_sensor">
+		<BlockGenus name="crowtail_uv_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_uv_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2627,7 +2627,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_single_gyro" kind="data" color="0 255 0" initlabel="bg.seeed_single_gyro">
+		<BlockGenus name="crowtail_single_gyro" kind="data" color="215 5 20" initlabel="bg.crowtail_single_gyro">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2643,7 +2643,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_mq9_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_mq9_sensor">
+		<BlockGenus name="crowtail_mq9_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_mq9_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2659,7 +2659,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_mp3_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_mp3_sensor">
+		<BlockGenus name="crowtail_mp3_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_mp3_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2675,7 +2675,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_vib_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_vib_sensor">
+		<BlockGenus name="crowtail_vib_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_vib_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2691,7 +2691,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_loud_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_loud_sensor">
+		<BlockGenus name="crowtail_loud_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_loud_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2707,7 +2707,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_diff_amp" kind="data" color="0 255 0" initlabel="bg.seeed_diff_amp">
+		<BlockGenus name="crowtail_diff_amp" kind="data" color="215 5 20" initlabel="bg.crowtail_diff_amp">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2723,7 +2723,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_ir_temp_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_ir_temp_sensor">
+		<BlockGenus name="crowtail_ir_temp_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_ir_temp_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2739,7 +2739,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_ir_proximity_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_ir_proximity_sensor">
+		<BlockGenus name="crowtail_ir_proximity_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_ir_proximity_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2755,7 +2755,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_electricity_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_electricity_sensor">
+		<BlockGenus name="crowtail_electricity_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_electricity_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2771,7 +2771,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_angle_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_angle_sensor">
+		<BlockGenus name="crowtail_angle_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_angle_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2787,7 +2787,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_sound_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_sound_sensor">
+		<BlockGenus name="crowtail_sound_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_sound_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2803,7 +2803,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_moisture_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_moisture_sensor">
+		<BlockGenus name="crowtail_moisture_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_moisture_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2819,7 +2819,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_temp_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_temp_sensor">
+		<BlockGenus name="crowtail_temp_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_temp_sensor">
 			<description>
 				<text>Read analog value from analog pin</text>
 			</description>
@@ -2836,7 +2836,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_voltage_divider" kind="data" color="0 255 0" initlabel="bg.seeed_voltage_divider">
+		<BlockGenus name="crowtail_voltage_divider" kind="data" color="215 5 20" initlabel="bg.crowtail_voltage_divider">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2853,7 +2853,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_flame_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_flame_sensor">
+		<BlockGenus name="crowtail_flame_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_flame_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2870,7 +2870,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_button" kind="data" color="0 255 0" initlabel="bg.seeed_button">
+		<BlockGenus name="crowtail_button" kind="data" color="215 5 20" initlabel="bg.crowtail_button">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2886,7 +2886,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_switch" kind="data" color="0 255 0" initlabel="bg.seeed_switch">
+		<BlockGenus name="crowtail_switch" kind="data" color="215 5 20" initlabel="bg.crowtail_switch">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2902,7 +2902,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_ir_refl_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_ir_refl_sensor">
+		<BlockGenus name="crowtail_ir_refl_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_ir_refl_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2919,7 +2919,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_heart_rate_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_heart_rate_sensor">
+		<BlockGenus name="crowtail_heart_rate_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_heart_rate_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2936,7 +2936,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_light_sensor" kind="data" color="0 255 0" initlabel="bgseeed_light_sensor">
+		<BlockGenus name="crowtail_light_sensor" kind="data" color="215 5 20" initlabel="bgcrowtail_light_sensor">
 		    <description>
 				<text>Read light</text>
 			</description>
@@ -2952,7 +2952,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
-		<BlockGenus name="seeed_chest_heart_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_chest_heart_sensor">
+		<BlockGenus name="crowtail_chest_heart_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_chest_heart_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2969,7 +2969,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_air_quality_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_air_quality_sensor">
+		<BlockGenus name="crowtail_air_quality_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_air_quality_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -2986,7 +2986,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_line_finder" kind="data" color="0 255 0" initlabel="bg.seeed_line_finder">
+		<BlockGenus name="crowtail_line_finder" kind="data" color="215 5 20" initlabel="bg.crowtail_line_finder">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3003,7 +3003,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_pir_motion_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_pir_motion_sensor">
+		<BlockGenus name="crowtail_pir_motion_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_pir_motion_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3020,7 +3020,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_tilt_switch" kind="data" color="0 255 0" initlabel="bg.seeed_tilt_switch">
+		<BlockGenus name="crowtail_tilt_switch" kind="data" color="215 5 20" initlabel="bg.crowtail_tilt_switch">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3037,7 +3037,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_push_button" kind="data" color="0 255 0" initlabel="bg.seeed_push_button">
+		<BlockGenus name="crowtail_push_button" kind="data" color="215 5 20" initlabel="bg.crowtail_push_button">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3054,7 +3054,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_water_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_water_sensor">
+		<BlockGenus name="crowtail_water_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_water_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3071,7 +3071,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_touch_sensor" kind="data" color="0 255 0" initlabel="bg.seeed_touch_sensor">
+		<BlockGenus name="crowtail_touch_sensor" kind="data" color="215 5 20" initlabel="bg.crowtail_touch_sensor">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3088,7 +3088,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_mag_switch" kind="data" color="0 255 0" initlabel="bg.seeed_mag_switch">
+		<BlockGenus name="crowtail_mag_switch" kind="data" color="215 5 20" initlabel="bg.crowtail_mag_switch">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3105,7 +3105,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_ir_dist_int" kind="data" color="1 255 0" initlabel="bg.seeed_ir_dist_int">
+		<BlockGenus name="crowtail_ir_dist_int" kind="data" color="215 5 20" initlabel="bg.crowtail_ir_dist_int">
 		    <description>
 				<text>Read digital from the pin</text>
 			</description>
@@ -3122,7 +3122,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_circle_led" kind="command" color="0 255 0" initlabel="bg.seeed_circle_led">
+		<BlockGenus name="crowtail_circle_led" kind="command" color="215 5 20" initlabel="bg.crowtail_circle_led">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3141,7 +3141,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_2coil_relay" kind="command" color="0 255 0" initlabel="bg.seeed_2coil_relay">
+		<BlockGenus name="crowtail_2coil_relay" kind="command" color="215 5 20" initlabel="bg.crowtail_2coil_relay">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3160,7 +3160,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_dry_relay" kind="command" color="0 255 0" initlabel="bg.seeed_dry_relay">
+		<BlockGenus name="crowtail_dry_relay" kind="command" color="215 5 20" initlabel="bg.crowtail_dry_relay">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3179,7 +3179,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_solid_relay" kind="command" color="0 255 0" initlabel="bg.seeed_solid_relay">
+		<BlockGenus name="crowtail_solid_relay" kind="command" color="215 5 20" initlabel="bg.crowtail_solid_relay">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3198,7 +3198,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_circle_led" kind="command" color="0 255 0" initlabel="bg.seeed_circle_led">
+		<BlockGenus name="crowtail_circle_led" kind="command" color="215 5 20" initlabel="bg.crowtail_circle_led">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3217,7 +3217,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_led_strip" kind="command" color="0 255 0" initlabel="bg.seeed_led_strip">
+		<BlockGenus name="crowtail_led_strip" kind="command" color="215 5 20" initlabel="bg.crowtail_led_strip">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3236,7 +3236,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_led" kind="command" color="0 255 0" initlabel="bg.seeed_led">
+		<BlockGenus name="crowtail_led" kind="command" color="215 5 20" initlabel="bg.crowtail_led">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3255,7 +3255,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_var_led" kind="command" color="0 255 0" initlabel="bg.seeed_var_led">
+		<BlockGenus name="crowtail_var_led" kind="command" color="215 5 20" initlabel="bg.crowtail_var_led">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3274,7 +3274,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_vib" kind="command" color="0 255 0" initlabel="bg.seeed_vib">
+		<BlockGenus name="crowtail_vib" kind="command" color="215 5 20" initlabel="bg.crowtail_vib">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3293,7 +3293,7 @@
 			</Images>
 		</BlockGenus>
 		
-		<BlockGenus name="seeed_relay" kind="command" color="0 255 0" initlabel="bg.seeed_relay">
+		<BlockGenus name="crowtail_relay" kind="command" color="215 5 20" initlabel="bg.crowtail_relay">
 			<description>
 				<text>Write status to digital pin</text>
 			</description>
@@ -3312,11 +3312,10 @@
 			</Images>
 		</BlockGenus>
 		
-
+		<!-- end of elecrowcrowtail -->
 		
-		<!-- end of seeedStudio -->
-
 		<!-- elecrowcrowtail -->
+		<!--
 		<BlockGenus name="crowtail_led" kind="command" color="215 5 50" initlabel="bg.crowtail_led">
 			<description>
 				<text>Write status to digital pin</text>
@@ -3410,6 +3409,7 @@
 				</Image>
 			</Images>
 		</BlockGenus>
+		-->
 		<!-- end of elecrowcrowtail -->
 		
 		<!-- DuinoEDU -->
@@ -6581,48 +6581,48 @@
 				<BlockGenusMember>MaSD_separator</BlockGenusMember>
 			</BlockDrawer>
 		
-			<BlockDrawer button-color="0 255 0" name="bd.seeedstudio">
-				<BlockGenusMember>seeed_led</BlockGenusMember>
-				<BlockGenusMember>seeed_button</BlockGenusMember>
-				<BlockGenusMember>seeed_switch</BlockGenusMember>
-				<BlockGenusMember>seeed_angle_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_light_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_temp_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_sound_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_line_finder</BlockGenusMember>
-				<BlockGenusMember>seeed_pir_motion_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_tilt_switch</BlockGenusMember>
-				<BlockGenusMember>seeed_water_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_moisture_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_touch_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_mag_switch</BlockGenusMember>
-				<BlockGenusMember>seeed_ir_dist_int</BlockGenusMember>
-				<BlockGenusMember>seeed_ir_proximity_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_air_quality_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_vib</BlockGenusMember>
-				<BlockGenusMember>seeed_vib_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_relay</BlockGenusMember>
-				<BlockGenusMember>seeed_dry_relay</BlockGenusMember>
-				<BlockGenusMember>seeed_2coil_relay</BlockGenusMember>
-				<BlockGenusMember>seeed_solid_relay</BlockGenusMember>
-				<BlockGenusMember>seeed_joystick</BlockGenusMember>
-				<BlockGenusMember>seeed_joystick_button</BlockGenusMember>
-				<BlockGenusMember>seeed_diff_amp</BlockGenusMember>
-				<BlockGenusMember>seeed_ir_temp_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_electricity_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_voltage_divider</BlockGenusMember>
-				<BlockGenusMember>seeed_flame_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_ir_refl_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_heart_rate_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_chest_heart_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_circle_led</BlockGenusMember>
-				<BlockGenusMember>seeed_led_strip</BlockGenusMember>
-				<BlockGenusMember>seeed_var_led</BlockGenusMember>
-				<BlockGenusMember>seeed_uv_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_single_gyro</BlockGenusMember>
-				<BlockGenusMember>seeed_mq9_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_mp3_sensor</BlockGenusMember>
-				<BlockGenusMember>seeed_o2_sensor</BlockGenusMember>
+			<BlockDrawer button-color="215 5 10" name="bd.elecrowcrowtail">
+				<BlockGenusMember>crowtail_led</BlockGenusMember>
+				<BlockGenusMember>crowtail_button</BlockGenusMember>
+				<BlockGenusMember>crowtail_switch</BlockGenusMember>
+				<BlockGenusMember>crowtail_angle_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_light_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_temp_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_sound_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_line_finder</BlockGenusMember>
+				<BlockGenusMember>crowtail_pir_motion_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_tilt_switch</BlockGenusMember>
+				<BlockGenusMember>crowtail_water_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_moisture_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_touch_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_mag_switch</BlockGenusMember>
+				<BlockGenusMember>crowtail_ir_dist_int</BlockGenusMember>
+				<BlockGenusMember>crowtail_ir_proximity_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_air_quality_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_vib</BlockGenusMember>
+				<BlockGenusMember>crowtail_vib_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_relay</BlockGenusMember>
+				<BlockGenusMember>crowtail_dry_relay</BlockGenusMember>
+				<BlockGenusMember>crowtail_2coil_relay</BlockGenusMember>
+				<BlockGenusMember>crowtail_solid_relay</BlockGenusMember>
+				<BlockGenusMember>crowtail_joystick</BlockGenusMember>
+				<BlockGenusMember>crowtail_joystick_button</BlockGenusMember>
+				<BlockGenusMember>crowtail_diff_amp</BlockGenusMember>
+				<BlockGenusMember>crowtail_ir_temp_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_electricity_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_voltage_divider</BlockGenusMember>
+				<BlockGenusMember>crowtail_flame_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_ir_refl_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_heart_rate_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_chest_heart_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_circle_led</BlockGenusMember>
+				<BlockGenusMember>crowtail_led_strip</BlockGenusMember>
+				<BlockGenusMember>crowtail_var_led</BlockGenusMember>
+				<BlockGenusMember>crowtail_uv_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_single_gyro</BlockGenusMember>
+				<BlockGenusMember>crowtail_mq9_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_mp3_sensor</BlockGenusMember>
+				<BlockGenusMember>crowtail_o2_sensor</BlockGenusMember>
 			</BlockDrawer>
 			
 			<BlockDrawer button-color="20 206 20" name="bd.DuinoEDU">
@@ -6696,6 +6696,7 @@
 			</BlockDrawer>
 			
 			<!--**************************** Elecrow crowtail ******************************-->
+			<!--
 			<BlockDrawer button-color="215 5 10" name="bd.elecrowcrowtail">
 				<BlockGenusMember>crowtail_led</BlockGenusMember>
 				<BlockGenusMember>crowtail_relay</BlockGenusMember>
@@ -6703,7 +6704,7 @@
 				<BlockGenusMember>crowtail_Oled_I2C</BlockGenusMember>
 				<BlockGenusMember>crowtail_angle_sensor</BlockGenusMember>
 			</BlockDrawer>
-			
+			-->
 		</BlockDrawerSet>
 	</BlockDrawerSets>
 	
